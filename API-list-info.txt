@@ -1,0 +1,20 @@
+To get list of users(table)
+Method type- GET
+Endpoint- /api/users OR /api/table_name
+
+To get data by id(id of table)
+Method type- GET
+Endpoint- /api/users/{id} OR /api/table_name/{row id of user}
+
+To create a row into table
+Method type- POST
+Endpoint-/api/table_name
+
+To update a row by id
+Method Type - PATCH
+Endpoint - /api/table_name/{id}
+
+To delete table row by id
+Method Type - DELETE
+Endpoint - /api/table_name/{id}
+

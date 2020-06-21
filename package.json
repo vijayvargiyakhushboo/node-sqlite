@@ -4,12 +4,14 @@
   "description": "node and sqlite tutorial",
   "main": "main.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "KV",
   "license": "ISC",
   "dependencies": {
     "blubird": "0.0.1-security",
+    "express": "^4.17.1",
     "sqlite": "^4.0.11"
   }
 }

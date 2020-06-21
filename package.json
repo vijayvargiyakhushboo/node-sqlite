@@ -12,6 +12,6 @@
   "dependencies": {
     "blubird": "0.0.1-security",
     "express": "^4.17.1",
-    "sqlite": "^4.0.11"
+    "sqlite3": "^4.2.0"
   }
 }
